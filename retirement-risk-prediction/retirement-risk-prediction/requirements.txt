@@ -1,4 +1,4 @@
-xgboost==3.0.4
+xgboost==1.6.2
 scikit-learn==1.7.1
 streamlit==1.39.0
 pandas==2.2.3
