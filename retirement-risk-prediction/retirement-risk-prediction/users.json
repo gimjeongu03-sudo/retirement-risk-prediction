@@ -1,0 +1,10 @@
+{
+  "admin": {
+    "password": "admin123",
+    "name": "관리자"
+  },
+  "user": {
+    "password": "user123",
+    "name": "사용자"
+  }
+}
